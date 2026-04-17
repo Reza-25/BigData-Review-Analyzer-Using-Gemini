@@ -26,7 +26,7 @@ Output: Generate a structured "Business Action Plan" (JSON format).
 <img width="1340" height="780" alt="Screenshot 2026-04-17 094816" src="https://github.com/user-attachments/assets/cf5154d0-d416-4c40-a442-914c6471590a" />
 <img width="1349" height="702" alt="Screenshot 2026-04-17 094833" src="https://github.com/user-attachments/assets/aae6ffdc-9420-4866-8785-96313925f3c7" />
 
-💼 Business Value (Kenapa ini penting buat Klien?)
+💼 Business Value
 Cuts down manual review analysis time by 95%.
 
 Helps Product Managers pinpoint exact hardware/software defects based on real user sentiment instantly.
